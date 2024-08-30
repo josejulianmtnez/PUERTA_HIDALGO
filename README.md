@@ -1,3 +1,5 @@
+![uttec](img_doc/general/uttec.jpg)
+
 # PUERTA HIDALGO - ROCKET SYSTEMS<br>INTEGRAGORA I<br>REPORTE TÉCNICO
 
 ### PARA OBTENER EL TÍTULO DE
